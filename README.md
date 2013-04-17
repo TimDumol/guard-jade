@@ -5,7 +5,8 @@ A Guard plugin to watch and compile Jade files
 
 ## Dependencies
 
-Right now, `jade` has to be installed globally (via `npm install -g jade`).
+Right now, `jade` has to be installed locally in the same directory as your
+Guardfile.
 
 ## Authors
 
