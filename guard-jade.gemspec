@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'tim@timdumol.com'
   s.files       = ["lib/guard/jade.rb"]
   s.homepage    =
-    'https://github.com/TimDumol/guard-stylus'
+    'https://github.com/TimDumol/guard-jade'
   s.licenses    = ['Apache 2.0']
   s.add_runtime_dependency 'guard', '~> 1.7.0'
   s.add_runtime_dependency 'guard-helpers', '~> 0.0.3'
